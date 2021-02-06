@@ -66,7 +66,7 @@ Alvi('sendMessage',[
 'chat_id'=>$chat_id,
 'text'=>"***Hey  👋 $first_name,
 
-I'm $BOT_NAME a powerfull AI Bot
+I'm Maha Zona a powerful AI Bot
 
 I will resopnd to any image you send. Send me a image to me, I will say what is That😜
 
